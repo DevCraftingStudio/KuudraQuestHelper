@@ -1,0 +1,5 @@
+Commands to uses
+/Kuudra - Opens the GUI to the config and settings!
+/KuudraWaypoint - Puts a waypoint on the next objective for the Kuudra Follower Questline!
+
+## If needed and the commands to not work please contact the main developer DevCraftingStudio!
